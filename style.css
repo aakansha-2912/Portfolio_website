@@ -51,7 +51,7 @@ body {
     display: inline-block;
     padding: 0.7rem 1.5rem;
     margin-left: 1rem;
-    background-color: #ff4b5c;
+    background-color: #6c63ff; 
     color: #fff;
     border-radius: 30px;
     text-decoration: none;
@@ -64,7 +64,7 @@ body {
 }
 
 .btn-resume:hover {
-    background-color: #e03e50;
+    background-color: #5952cc; /* slightly darker for hover */
 }
 
 .logo {
