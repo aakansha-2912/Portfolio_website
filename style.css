@@ -47,6 +47,25 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+.btn-resume {
+    display: inline-block;
+    padding: 0.7rem 1.5rem;
+    margin-left: 1rem;
+    background-color: #ff4b5c;
+    color: #fff;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.btn-resume i {
+    margin-right: 0.5rem;
+}
+
+.btn-resume:hover {
+    background-color: #e03e50;
+}
 
 .logo {
     font-size: 24px;
